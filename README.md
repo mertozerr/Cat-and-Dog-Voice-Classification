@@ -1,3 +1,3 @@
-# VoiceClassification
+# Cat and Dog Voice Classification
  
 In this project, ...
